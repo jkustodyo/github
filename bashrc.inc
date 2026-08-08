@@ -1,4 +1,4 @@
-#----[.bashrc]--------------------------------------
+#----[.bashrc=1.0.0]--------------------------------------
 
 # diversas orientações
 # gooogle---> linux bash como mudar a cor do nome de diretorios exibidos no ls
